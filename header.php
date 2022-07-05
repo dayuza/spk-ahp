@@ -188,6 +188,20 @@
 										</header>
 
 									</div>
+									<div class="bd-category ">
+										<header class="bd-category-header">
+											<a data-name="Overview" class="navbar-item
+										bd-navbar-item
+										bd-navbar-item-expo
+										bd-navbar-item-base" href="index.php"><strong
+													class="bd-name">&nbsp;<span class="icon">
+											<i class="fas fa-exclamation-triangle"></i>
+											</span>&nbsp; Log Out
+												</strong>
+											</a>
+										</header>
+
+									</div>
 								</div>
 			</nav>
 		</nav>

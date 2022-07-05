@@ -108,6 +108,10 @@
                   <button class="btn btn-primary d-grid w-100" type="submit">Sign in</button>
                 </div>
               </form>
+              <p class="text-center">
+                <span>Username : admin, Password : admin</span>
+                
+              </p>
             </div>
           </div>
           <!-- /Register -->
